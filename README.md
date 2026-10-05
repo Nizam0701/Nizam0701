@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer (Frontend & Backend) | S.Kom. Informatics, Universitas Gunadarma</h3>
 
 <p align="center">
-Final-year Informatics student focused on full-stack development. Currently building client products as a Frontend Developer at <b>Techdesk Indonesia</b> — from POS/payment systems to institutional dashboards. Comfortable owning a feature end-to-end: UI/UX in Figma, backend APIs, and deployment.
+Informatics graduate (S.Kom., August 2026) from Universitas Gunadarma with hands-on experience across the full stack. Currently building client products as a Frontend Developer at <b>Techdesk Indonesia</b> — from POS/payment systems to institutional dashboards. Comfortable owning a feature end-to-end: UI/UX in Figma, backend APIs, and deployment.
 </p>
 
 <p align="center">
