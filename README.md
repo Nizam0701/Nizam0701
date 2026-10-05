@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nizam Danial Hasan</h1>
-<h3 align="center">Full-Stack Web & Mobile Developer | Informatics Student @ Universitas Gunadarma</h3>
+<h3 align="center">Full-Stack Developer (Frontend & Backend) | S.Kom. Informatics, Universitas Gunadarma</h3>
 
 <p align="center">
 Final-year Informatics student focused on full-stack development. Currently building client products as a Frontend Developer at <b>Techdesk Indonesia</b> — from POS/payment systems to institutional dashboards. Comfortable owning a feature end-to-end: UI/UX in Figma, backend APIs, and deployment.
