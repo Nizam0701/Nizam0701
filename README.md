@@ -4,6 +4,9 @@
 <p align="center">
 Informatics graduate (S.Kom., August 2026) from Universitas Gunadarma with hands-on experience across the full stack. Currently building client products as a Frontend Developer at <b>Techdesk Indonesia</b> — from POS/payment systems to institutional dashboards. Comfortable owning a feature end-to-end: UI/UX in Figma, backend APIs, and deployment.
 </p>
+<p align="center">
+  🔎 <b>Open to work:</b> Frontend Developer · Backend Developer · Full-Stack Developer
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nizamdanialhasan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
